@@ -1,5 +1,6 @@
 # Machine Learning with Scikit-Learn
-Hi!
+Hi! 
+---
 This repository contains example code demonstrating various machine learning functionalities using Python's Scikit-Learn library.
 
 ## Table of Contents
